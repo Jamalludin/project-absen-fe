@@ -1,4 +1,4 @@
-package id.co.myabsensi.userAuth
+package id.co.myabsensi.userauth
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

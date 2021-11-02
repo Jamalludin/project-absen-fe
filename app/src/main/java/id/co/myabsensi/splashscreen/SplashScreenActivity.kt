@@ -1,11 +1,11 @@
-package id.co.myabsensi.splashScreen
+package id.co.myabsensi.splashscreen
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import id.co.myabsensi.R
-import id.co.myabsensi.userAuth.UserLoginActivity
+import id.co.myabsensi.userauth.UserLoginActivity
 
 class SplashScreenActivity : AppCompatActivity() {
     lateinit var handler : Handler

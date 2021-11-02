@@ -10,17 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAbsensi">
         <activity
-            android:name=".userAuth.UserRegisterActivity"
+            android:name=".userauth.UserRegisterActivity"
             android:exported="false"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
 
         <activity
-            android:name=".userAuth.UserLoginActivity"
+            android:name=".userauth.UserLoginActivity"
             android:exported="false"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
 
         <activity
-            android:name=".splashScreen.SplashScreenActivity"
+            android:name=".splashscreen.SplashScreenActivity"
             android:exported="true"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
